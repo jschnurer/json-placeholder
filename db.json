@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Post 1 - A fun sample post",
+      "body": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Post 2 - A not so fun post",
+      "body": "minus omnis soluta quia qui sed adipisci voluptates illum ipsam voluptatem eligendi officia ut in eos soluta similique molestias praesentium blanditiis"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Post 3 - A really not fun post!",
+      "body": "alias dolor cumque impedit blanditiis non eveniet odio maxime blanditiis amet eius quis tempora quia autem rem a provident perspiciatis quia"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "First!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Second... :(",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "You're right. This WAS a not-so-fun post.",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "jschnurer"
+  }
+}
