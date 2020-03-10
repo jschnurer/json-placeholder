@@ -4,19 +4,22 @@
       "id": 1,
       "userId": "jschnurer",
       "title": "Post 1 - A fun sample post",
-      "body": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae"
+      "body": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae",
+	  "time": "2020-03-10 09:15:00Z"
     },
     {
       "id": 2,
       "userId": "jschnurer",
       "title": "Post 2 - A not so fun post",
-      "body": "minus omnis soluta quia qui sed adipisci voluptates illum ipsam voluptatem eligendi officia ut in eos soluta similique molestias praesentium blanditiis"
+      "body": "minus omnis soluta quia qui sed adipisci voluptates illum ipsam voluptatem eligendi officia ut in eos soluta similique molestias praesentium blanditiis",
+	  "time": "2020-03-10 09:44:00Z"
     },
     {
       "id": 3,
       "userId": "jschnurer",
       "title": "Post 3 - A really not fun post!",
-      "body": "alias dolor cumque impedit blanditiis non eveniet odio maxime blanditiis amet eius quis tempora quia autem rem a provident perspiciatis quia"
+      "body": "alias dolor cumque impedit blanditiis non eveniet odio maxime blanditiis amet eius quis tempora quia autem rem a provident perspiciatis quia",
+	  "time": "2020-03-10 09:54:00Z"
     }
   ],
   "comments": [
@@ -24,19 +27,22 @@
       "id": 1,
 	  "userId": "randoPerson",
       "body": "First!",
-      "postId": 1
+      "postId": 1,
+	  "time": "2020-03-10 14:00:00Z"
     },
     {
       "id": 2,
 	  "userId": "randoGal",
       "body": "Second... :(",
-      "postId": 1
+      "postId": 1,
+	  "time": "2020-03-10 14:20:00Z"
     },
     {
       "id": 3,
 	  "userId": "randoGuy",
       "body": "You're right. This WAS a not-so-fun post.",
-      "postId": 2
+      "postId": 2,
+	  "time": "2020-03-10 11:15:00Z"
     }
   ],
   "profile": {
