@@ -5,44 +5,66 @@
       "userId": "jschnurer",
       "title": "Post 1 - A fun sample post",
       "body": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae",
-	  "time": "2020-03-10 09:15:00Z"
+      "time": "2020-03-10 09:15:00Z"
     },
     {
       "id": 2,
       "userId": "jschnurer",
       "title": "Post 2 - A not so fun post",
       "body": "minus omnis soluta quia qui sed adipisci voluptates illum ipsam voluptatem eligendi officia ut in eos soluta similique molestias praesentium blanditiis",
-	  "time": "2020-03-10 09:44:00Z"
+      "time": "2020-03-10 09:44:00Z"
     },
     {
       "id": 3,
       "userId": "jschnurer",
       "title": "Post 3 - A really not fun post!",
       "body": "alias dolor cumque impedit blanditiis non eveniet odio maxime blanditiis amet eius quis tempora quia autem rem a provident perspiciatis quia",
-	  "time": "2020-03-10 09:54:00Z"
+      "time": "2020-03-10 09:54:00Z"
     }
   ],
   "comments": [
     {
       "id": 1,
-	  "userId": "randoPerson",
+      "userId": "randoPerson",
       "body": "First!",
       "postId": 1,
-	  "time": "2020-03-10 14:00:00Z"
+      "time": "2020-03-10 14:00:00Z"
     },
     {
       "id": 2,
-	  "userId": "randoGal",
+      "userId": "randoGal",
       "body": "Second... :(",
       "postId": 1,
-	  "time": "2020-03-10 14:20:00Z"
+      "time": "2020-03-10 14:20:00Z"
     },
     {
       "id": 3,
-	  "userId": "randoGuy",
+      "userId": "randoGuy",
       "body": "You're right. This WAS a not-so-fun post.",
       "postId": 2,
-	  "time": "2020-03-10 11:15:00Z"
+      "time": "2020-03-10 11:15:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "jschnurer",
+      "joinDate": "2019-10-21 18:33:12Z",
+      "blurb": "Just, oh, you know, the guy who made this whole thing."
+    },
+    {
+      "id": "randoGuy",
+      "joinDate": "2019-11-12 06:53:21Z",
+      "blurb": "Just some random guy."
+    },
+    {
+      "id": "randoGal",
+      "joinDate": "2019-12-25 03:33:33Z",
+      "blurb": "Just some random gal."
+    },
+    {
+      "id": "randoPerson",
+      "joinDate": "2020-01-18 17:00:41Z",
+      "blurb": "Just some mysterious, random person."
     }
   ],
   "profile": {
